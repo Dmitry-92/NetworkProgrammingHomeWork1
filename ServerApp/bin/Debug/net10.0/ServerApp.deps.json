@@ -8,10 +8,47 @@
     ".NETCoreApp,Version=v10.0": {
       "ServerApp/1.0.0": {
         "dependencies": {
-          "SharedModels": "1.0.0"
+          "SharedModels": "1.0.0",
+          "System.Text.Json": "11.0.0-preview.4.26230.115"
         },
         "runtime": {
           "ServerApp.dll": {}
+        }
+      },
+      "System.IO.Pipelines/11.0.0-preview.4.26230.115": {
+        "runtime": {
+          "lib/net10.0/System.IO.Pipelines.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.26.23115"
+          }
+        }
+      },
+      "System.Text.Encodings.Web/11.0.0-preview.4.26230.115": {
+        "runtime": {
+          "lib/net10.0/System.Text.Encodings.Web.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.26.23115"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/browser/lib/net10.0/System.Text.Encodings.Web.dll": {
+            "rid": "browser",
+            "assetType": "runtime",
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.26.23115"
+          }
+        }
+      },
+      "System.Text.Json/11.0.0-preview.4.26230.115": {
+        "dependencies": {
+          "System.IO.Pipelines": "11.0.0-preview.4.26230.115",
+          "System.Text.Encodings.Web": "11.0.0-preview.4.26230.115"
+        },
+        "runtime": {
+          "lib/net10.0/System.Text.Json.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.26.23115"
+          }
         }
       },
       "SharedModels/1.0.0": {
@@ -29,6 +66,27 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "System.IO.Pipelines/11.0.0-preview.4.26230.115": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-P1sOV4QsehjkrJyfrV0trEDDhurQCxBuOcIXBATKodD3sbP8jgTxZI3GYzBrAf1zsU2UmIol2Cyyn+LMadgb8A==",
+      "path": "system.io.pipelines/11.0.0-preview.4.26230.115",
+      "hashPath": "system.io.pipelines.11.0.0-preview.4.26230.115.nupkg.sha512"
+    },
+    "System.Text.Encodings.Web/11.0.0-preview.4.26230.115": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pKf7DQSAnUiffy2Byb63jQAUJ80SEr1nN9mGMdavc+GQgT7i2D1rR5ZvKOgVDYeOKbIVo7IM128N/cva2n8g6w==",
+      "path": "system.text.encodings.web/11.0.0-preview.4.26230.115",
+      "hashPath": "system.text.encodings.web.11.0.0-preview.4.26230.115.nupkg.sha512"
+    },
+    "System.Text.Json/11.0.0-preview.4.26230.115": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-A5g4EDLco3CFehq4g2McjFfJi7jIxsb2TiiVuctR7f99V1hbLavVkBFOQTLch5xSqehy9Mcgw5u2mE/s7qLULQ==",
+      "path": "system.text.json/11.0.0-preview.4.26230.115",
+      "hashPath": "system.text.json.11.0.0-preview.4.26230.115.nupkg.sha512"
     },
     "SharedModels/1.0.0": {
       "type": "project",
