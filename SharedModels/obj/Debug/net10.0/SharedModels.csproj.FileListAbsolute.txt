@@ -9,3 +9,4 @@
 /Users/dmitriy/NetworkProgrammingHomeWork1/SharedModels/obj/Debug/net10.0/refint/SharedModels.dll
 /Users/dmitriy/NetworkProgrammingHomeWork1/SharedModels/obj/Debug/net10.0/SharedModels.pdb
 /Users/dmitriy/NetworkProgrammingHomeWork1/SharedModels/obj/Debug/net10.0/ref/SharedModels.dll
+/Users/dmitriy/NetworkProgrammingHomeWork1/SharedModels/obj/Debug/net10.0/SharedModels.sourcelink.json

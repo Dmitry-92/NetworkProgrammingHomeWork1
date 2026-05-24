@@ -16,3 +16,4 @@
 /Users/dmitriy/NetworkProgrammingHomeWork1/ServerApp/obj/Debug/net10.0/ServerApp.pdb
 /Users/dmitriy/NetworkProgrammingHomeWork1/ServerApp/obj/Debug/net10.0/ServerApp.genruntimeconfig.cache
 /Users/dmitriy/NetworkProgrammingHomeWork1/ServerApp/obj/Debug/net10.0/ref/ServerApp.dll
+/Users/dmitriy/NetworkProgrammingHomeWork1/ServerApp/obj/Debug/net10.0/ServerApp.sourcelink.json
