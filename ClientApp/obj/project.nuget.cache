@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "NxO7YcPXqI4=",
+  "dgSpecHash": "5leNap/y7wA=",
   "success": true,
   "projectFilePath": "/Users/dmitriy/NetworkProgrammingHomeWork1/ClientApp/ClientApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/dmitriy/.nuget/packages/system.io.pipelines/11.0.0-preview.4.26230.115/system.io.pipelines.11.0.0-preview.4.26230.115.nupkg.sha512",
+    "/Users/dmitriy/.nuget/packages/system.text.encodings.web/11.0.0-preview.4.26230.115/system.text.encodings.web.11.0.0-preview.4.26230.115.nupkg.sha512",
+    "/Users/dmitriy/.nuget/packages/system.text.json/11.0.0-preview.4.26230.115/system.text.json.11.0.0-preview.4.26230.115.nupkg.sha512"
+  ],
   "logs": []
 }
